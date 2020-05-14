@@ -1,4 +1,4 @@
-package book._12_overerving.qz05;
+package _12_overerving.qz05;
 
 public class Subklasse extends Superklasse
 {
